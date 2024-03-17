@@ -9,10 +9,11 @@ module.exports = {
 
     extend: {
       colors: {
-        'primary-100': '#0085ff',
+        'primary': '#0085ff',
+        'bg-100': '#1e1e1e',
         'bg-200': '#2d2d2d',
-        'text-100': '#ececec',
-        'text-200': '#9e9e9e',
+        'text1': '#ececec',
+        'text2': '#9e9e9e',
       },
 
       screens: {
